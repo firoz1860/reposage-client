@@ -37,5 +37,6 @@ VITE_GITHUB_CLIENT_ID=your_github_oauth_app_client_id
 
 - The client expects the backend API to be available at `VITE_API_URL`.
 - Current deployed backend: `https://reposage-server.onrender.com`
+- Current deployed frontend: `https://reposage-github.vercel.app/`
 - If the device is low-end or reduced motion is enabled, 3D visuals fall back to a lightweight CSS background.
 - Production output is written to `client/dist`.
